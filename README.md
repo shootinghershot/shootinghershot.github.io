@@ -11,7 +11,7 @@ Hi! My name is Michele. I'm an avid rock climber, a videographer & photographer,
 ## Socials
 
 Instagram
- {title: "Instagram", href="https://www.instagram.com/micheleclimbs/"}
+ {link: "https://www.instagram.com/micheleclimbs/"}
 
 YouTube
- {title: "YouTube", href="https://www.youtube.com/channel/UCtUiKOhsVHKrdra1JW8XPZA"} 
+ {link: "https://www.youtube.com/channel/UCtUiKOhsVHKrdra1JW8XPZA"} 
